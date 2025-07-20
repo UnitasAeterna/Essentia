@@ -1,0 +1,13 @@
+{
+  "accentColor": "#ffffff",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "Theme - All Alternate Themes",
+    "MinerBanner",
+    "common",
+    "theme"
+  ],
+  "cssTheme": "Transparent",
+  "baseFontSizeAction": false
+}

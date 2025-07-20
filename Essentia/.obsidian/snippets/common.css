@@ -1,0 +1,87 @@
+/* HEADERS. SPACE, ALIGN */
+.mod-cm6 .cm-editor .HyperMD-header,
+.markdown-reading-view h1,
+.markdown-reading-view h2,
+.markdown-reading-view h3,
+.markdown-reading-view h4,
+.markdown-reading-view h5,
+.markdown-reading-view h6 {
+	line-height: 1.5em !important;
+	margin: 0px !important;
+	padding: 10px 0 !important;
+	text-align: center;
+}
+
+/* HEADERS. H2 LINES */
+.HyperMD-header.HyperMD-header-2,
+.cm-header-2,
+.markdown-reading-view h2 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.HyperMD-header.HyperMD-header-2:before,
+.cm-header-2:before,
+.HyperMD-header.HyperMD-header-2:after,
+.cm-header-2:after,
+.markdown-reading-view h2:before,
+.markdown-reading-view h2:after {
+    content: '';
+    border-top: 2px solid;
+    margin: 0 20px 0 0;
+    flex: 1 0 20px;
+}
+
+.HyperMD-header.HyperMD-header-2:after,
+.cm-header-2:after,
+.markdown-reading-view h2:after {
+    margin: 0 0 0 20px;
+}
+
+/* HEADERS. H2, H3 SIZE */
+.HyperMD-header.HyperMD-header-2,
+.HyperMD-header.HyperMD-header-3,
+.markdown-reading-view h2,
+.markdown-reading-view h3 {
+	font-size: 1.3em;
+}
+
+/* BACKGROUND. IMAGE FILTERS */
+.theme-dark .workspace {
+	backdrop-filter: brightness(0.55) blur(0px) opacity(70%);
+    background-color: transparent;
+}
+
+/* TEXT. COLOR */
+.theme-dark {
+	--text-normal: white;
+}
+
+/* TEXT. ALIGN*/
+.centred {
+	text-align: center;
+}
+
+/* TEXT. SIZE */
+.big {
+	font-size: 1.3em;
+}
+
+/* TEXT. ELLIPSIS */
+.ellipsis {
+	font-size: 1.3em;
+	text-align: center;
+}
+
+/* TEXT. EPIGRAPH */
+.text-epigraph {
+	line-height: 1.5em !important;
+	margin: 0px !important;
+	padding: 20px 0 !important;
+	text-align: center;
+	font-style: italic;
+	font-size: 1.1em;
+}

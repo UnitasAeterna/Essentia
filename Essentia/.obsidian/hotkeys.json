@@ -1,0 +1,15 @@
+{
+  "app:open-help": [],
+  "show-whitespace-cm6:whitespace-toggle": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "obsidian-pandoc:pandoc-export-docx": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ]
+}
