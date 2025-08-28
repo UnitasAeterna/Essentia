@@ -4,12 +4,6 @@
 
 Essentia — хранилище для [Obsidian](https://obsidian.md/), предназначенное для хранения справочных материалов, связанных с литературными проектами.
 
-В настоящее время включает следующие проекты:
-
-1. Unitas Aeterna
-2. Fantasy
-3. Sanguis Putris
-
 Полный список изменений доступен в файле «[Что нового](https://github.com/UnitasAeterna/Essentia/blob/main/Essentia/%D0%A7%D1%82%D0%BE%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE.md)».
 
 ## USAGE
